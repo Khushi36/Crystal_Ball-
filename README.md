@@ -23,7 +23,7 @@ This interactive Web-based AutoML app can train machine learning models with min
 
 Clone the repository
 ```bash
-git clone https://github.com/Aarya-Chauhan/Crystall_Ball/
+git clone https://github.com/Khushi36/Crystal_Ball-/
 ```
 Open the project directory in your desired Python development environment and install the dependencies
 ```bash
